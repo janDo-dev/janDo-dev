@@ -1,6 +1,6 @@
 # 👋 Aloha, I’m Jan! 
 
-🎓 Attandee of [Coding Bootcamps Europe](https://github.com/coding-bootcamps-eu)  
-👨‍💻 Junior Frontend Developer  
-🎮 Gamer.  
-📂 Trading cards collector.
+👨‍💻 Junior Frontend Developer [9elements](https://github.com/9elements)   
+🎓 Alumni of [Coding Bootcamps Europe](https://github.com/coding-bootcamps-eu)    
+🎮 Gamer.   
+📂 Trading cards collector.   
