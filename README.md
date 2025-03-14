@@ -1,7 +1,7 @@
 ## 👋 Aloha, I’m Jan! 
 ### 🔍 Currently looking for a new job, preferably as Frontend Developer or some kind of lateral entry into the gaming industry  
 
-👷 Frontend Developer using TS/JS, HTML and (S)CSS. Mostly, but not only in a Ruby on Rails environment.  
+👷 Frontend Developer using TS/JS, HTML and (S)CSS.
 ➕ Also worked with React, Svelte, Vue and various other frameworks and libraries.  
 📐 Some experience in interface design and layout with Figma and Photoshop.  
 🎮 Current side projects: A videogame using Godot / GDScript, Learning Unreal Engine 5  
